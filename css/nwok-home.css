@@ -1,0 +1,1671 @@
+/* screen - nwok-home */
+
+.nwok-home {
+  align-items: center;
+  background-color: var(--black-pearl);
+  display: flex;
+  flex-direction: column;
+  height: 5807px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.nwok-home .overlap-group8 {
+  height: 104px;
+  position: relative;
+  width: 1440px;
+}
+
+.nwok-home .group-42402 {
+  align-items: flex-start;
+  background-color: var(--black-pearl);
+  display: flex;
+  height: 104px;
+  left: 0;
+  min-width: 1440px;
+  padding: 27.0px 97.0px;
+  position: absolute;
+  top: 0;
+}
+
+.nwok-home .nwok {
+  color: var(--white);
+  font-family: var(--font-family-aeonik-bold);
+  font-size: 38.5px;
+  font-weight: 700;
+  height: 46px;
+  letter-spacing: 0;
+  min-width: 98px;
+  text-align: center;
+}
+
+.nwok-home .vector {
+  align-self: center;
+  height: 27px;
+  margin-bottom: 1.36px;
+  margin-left: 1px;
+  width: 18px;
+}
+
+.nwok-home .rectangle-1 {
+  background-color: #918ba6;
+  height: 1px;
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  top: 103px;
+  width: 1440px;
+}
+
+.nwok-home .group-container {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  margin-right: -528px;
+  margin-top: 70px;
+  min-width: 1872px;
+}
+
+.nwok-home .group-42476 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 88.0px;
+  min-height: 314px;
+  width: 460px;
+}
+
+.nwok-home .title {
+  color: var(--white);
+  font-family: var(--font-family-sora);
+  font-size: 64px;
+  font-weight: 700;
+  letter-spacing: -1.92px;
+  line-height: 80px;
+  min-height: 160px;
+  width: 456px;
+}
+
+.nwok-home .find-a-job-for-you-o {
+  letter-spacing: -0.40px;
+  margin-top: 24px;
+  min-height: 130px;
+  width: 400px;
+}
+
+.nwok-home .overlap-group4 {
+  height: 644px;
+  margin-left: 130px;
+  position: relative;
+  width: 1280px;
+}
+
+.nwok-home .rectangle-2 {
+  background-color: var(--midnight);
+  border: 2px solid var(--bunting);
+  border-radius: 24px;
+  height: 644px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 1060px;
+}
+
+.nwok-home .rectangle-6 {
+  background-color: var(--bunting);
+  border-radius: 12px;
+  height: 544px;
+  left: 134px;
+  position: absolute;
+  top: 76px;
+  width: 156px;
+}
+
+.nwok-home .rectangle-18 {
+  border: 2px solid var(--bunting);
+  border-radius: 12px;
+  height: 64px;
+  left: 314px;
+  position: absolute;
+  top: 76px;
+  width: 568px;
+}
+
+.nwok-home .rectangle-25 {
+  background-color: var(--blue-bayoux);
+  border-radius: 8px;
+  height: 64px;
+  left: 922px;
+  position: absolute;
+  top: 76px;
+  width: 64px;
+}
+
+.nwok-home .rectangle-26 {
+  background-color: var(--bunting);
+  border-radius: 8px;
+  height: 64px;
+  left: 1002px;
+  position: absolute;
+  top: 76px;
+  width: 64px;
+}
+
+.nwok-home .rectangle-27 {
+  background-color: var(--bunting);
+  border-radius: 8px;
+  height: 64px;
+  left: 1082px;
+  position: absolute;
+  top: 76px;
+  width: 64px;
+}
+
+.nwok-home .rectangle-28 {
+  background-color: var(--blue-bayoux);
+  border-radius: 78px;
+  height: 32px;
+  left: 196px;
+  opacity: 0.2;
+  position: absolute;
+  top: 416px;
+  width: 32px;
+}
+
+.nwok-home .rectangle-29 {
+  background-color: var(--blue-bayoux);
+  border-radius: 78px;
+  height: 32px;
+  left: 196px;
+  opacity: 0.2;
+  position: absolute;
+  top: 480px;
+  width: 32px;
+}
+
+.nwok-home .rectangle-30 {
+  background-color: var(--blue-bayoux);
+  border-radius: 78px;
+  height: 32px;
+  left: 196px;
+  opacity: 0.2;
+  position: absolute;
+  top: 544px;
+  width: 32px;
+}
+
+.nwok-home .search-loupe-1 {
+  height: 24px;
+  left: 334px;
+  position: absolute;
+  top: 96px;
+  width: 24px;
+}
+
+.nwok-home .group-42405 {
+  height: 1px;
+  left: 954px;
+  position: absolute;
+  top: 108px;
+  width: 1px;
+}
+
+.nwok-home .group-42404 {
+  height: 1px;
+  left: 1114px;
+  position: absolute;
+  top: 108px;
+  width: 1px;
+}
+
+.nwok-home .group-42403 {
+  height: 1px;
+  left: 1034px;
+  position: absolute;
+  top: 108px;
+  width: 1px;
+}
+
+.nwok-home .pointinghand-4-13 {
+  height: 1px;
+  left: 970px;
+  position: absolute;
+  top: 144px;
+  width: 1px;
+}
+
+.nwok-home .mac-os-11-safari-header-light {
+  align-items: center;
+  display: flex;
+  height: 52px;
+  left: 110px;
+  min-width: 1060px;
+  padding: 0 20px;
+  position: absolute;
+  top: 0;
+}
+
+.nwok-home .overlap-group1-2 {
+  height: 52px;
+  position: relative;
+  width: 832px;
+}
+
+.nwok-home .background {
+  height: 52px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 644px;
+}
+
+.nwok-home .center {
+  align-items: center;
+  display: flex;
+  height: 28px;
+  left: 0;
+  min-width: 726px;
+  position: absolute;
+  top: 12px;
+}
+
+.nwok-home .lighter {
+  height: 12px;
+  width: 52px;
+}
+
+.nwok-home .frame-container {
+  height: 28px;
+  margin-left: 282px;
+  position: relative;
+  width: 392px;
+}
+
+.nwok-home .frame-3 {
+  align-items: center;
+  display: flex;
+  height: 28px;
+  left: 0;
+  min-width: 392px;
+  position: absolute;
+  top: 0;
+}
+
+.nwok-home .vector-1 {
+  height: 17px;
+  margin-bottom: 1.0px;
+  width: 14px;
+}
+
+.nwok-home .website-title {
+  align-items: flex-start;
+  background-color: #f7f9ff;
+  border-radius: 5px;
+  display: flex;
+  height: 28px;
+  margin-left: 18px;
+  min-width: 360px;
+  opacity: 0.2;
+}
+
+.nwok-home .union {
+  height: 1px;
+  margin-top: -0.25px;
+  width: 1px;
+}
+
+.nwok-home .refreshalt {
+  align-self: center;
+  height: 1px;
+  margin-left: 347px;
+  margin-top: 1.79px;
+  width: 1px;
+}
+
+.nwok-home .frame-9 {
+  align-items: center;
+  display: flex;
+  height: 16px;
+  left: 174px;
+  min-width: 63px;
+  position: absolute;
+  top: 6px;
+}
+
+.nwok-home .medium-s {
+  height: 13px;
+  margin-bottom: 1.0px;
+  margin-left: -1px;
+  width: 9px;
+}
+
+.nwok-home .sitenamecom {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 7px;
+  min-height: 16px;
+  min-width: 48px;
+}
+
+.nwok-home .left {
+  height: 15px;
+  left: 78px;
+  position: absolute;
+  top: 18px;
+  width: 89px;
+}
+
+.nwok-home .right {
+  height: 1px;
+  margin-bottom: 0.5px;
+  margin-left: 138px;
+  width: 1px;
+}
+
+.nwok-home .job-title-keywords-1 {
+  color: var(--blue-bayoux);
+  font-family: var(--font-family-roboto_mono);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 374px;
+  letter-spacing: -0.16px;
+  line-height: 24px;
+  position: absolute;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.nwok-home .group-42413 {
+  align-items: center;
+  background-color: var(--bunting);
+  border-radius: 12px;
+  display: flex;
+  height: 96px;
+  left: 314px;
+  min-width: 832px;
+  padding: 0 16px;
+  position: absolute;
+  top: 164px;
+}
+
+.nwok-home .group-684 {
+  background-color: #47af89;
+  background-image: url(../img/mask-group-5@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 32px;
+  height: 64px;
+  width: 64px;
+}
+
+.nwok-home .group-4240 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 32px;
+  width: 273px;
+}
+
+.nwok-home .rectangle-522 {
+  background-color: var(--blue-bayoux);
+  border-radius: 50px;
+  height: 12px;
+  opacity: 0.2;
+  width: 273px;
+}
+
+.nwok-home .rectangle-523 {
+  background-color: var(--blue-bayoux);
+  border-radius: 50px;
+  height: 12px;
+  margin-top: 8px;
+  opacity: 0.2;
+  width: 201px;
+}
+
+.nwok-home .frame {
+  align-items: center;
+  background-color: var(--blue-bayoux);
+  border-radius: 8px;
+  display: flex;
+  height: 64px;
+  margin-left: 315px;
+  opacity: 0.48;
+  overflow: hidden;
+  padding: 0 32px;
+  width: 132px;
+}
+
+.nwok-home .rectangle-52 {
+  background-color: var(--wild-blue-yonder);
+  border-radius: 50px;
+  height: 12px;
+  width: 68px;
+}
+
+.nwok-home .group-42411 {
+  align-items: center;
+  background-color: var(--bunting);
+  border-radius: 12px;
+  display: flex;
+  height: 96px;
+  left: 314px;
+  min-width: 832px;
+  padding: 0 16px;
+  position: absolute;
+  top: 404px;
+}
+
+.nwok-home .group-683 {
+  background-color: #54aacd;
+  background-image: url(../img/mask-group-6@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 32px;
+  height: 64px;
+  width: 64px;
+}
+
+.nwok-home .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--wild-blue-yonder);
+  border-radius: 50px;
+  display: flex;
+  min-width: 68px;
+}
+
+.nwok-home .group-42412 {
+  align-items: center;
+  background-color: var(--bunting);
+  border-radius: 12px;
+  display: flex;
+  height: 96px;
+  left: 314px;
+  min-width: 832px;
+  padding: 0 16px;
+  position: absolute;
+  top: 524px;
+}
+
+.nwok-home .group-693 {
+  background-color: #4942b7;
+  background-image: url(../img/mask-group-7@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 32px;
+  height: 64px;
+  width: 64px;
+}
+
+.nwok-home .rectangle-31 {
+  height: 484px;
+  left: 318px;
+  position: absolute;
+  top: 160px;
+  width: 644px;
+}
+
+.nwok-home .overlap-group2 {
+  height: 130px;
+  left: 448px;
+  position: absolute;
+  top: 284px;
+  width: 832px;
+}
+
+.nwok-home .rectangle-15 {
+  background-color: var(--bunting);
+  border-radius: 16px;
+  box-shadow: 0px 48px 96px #070e277a;
+  height: 96px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 832px;
+}
+
+.nwok-home .frame-10 {
+  align-items: center;
+  background-color: #9c81ea;
+  border-radius: 8px;
+  display: flex;
+  height: 64px;
+  left: 684px;
+  overflow: hidden;
+  padding: 0 32px;
+  position: absolute;
+  top: 16px;
+  width: 132px;
+}
+
+.nwok-home .rectangle-523-2 {
+  background-color: #689eff;
+  border-radius: 50px;
+  height: 12px;
+  width: 68px;
+}
+
+.nwok-home .pointinghand-4-12 {
+  height: 64px;
+  left: 196px;
+  position: absolute;
+  top: 66px;
+  width: 64px;
+}
+
+.nwok-home .group-808 {
+  background-color: #ffca8c;
+  background-image: url(../img/mask-group-8@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 32px;
+  height: 64px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 64px;
+}
+
+.nwok-home .group-42407 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 96px;
+  min-height: 32px;
+  position: absolute;
+  top: 32px;
+  width: 273px;
+}
+
+.nwok-home .overlap-group3 {
+  background-color: #5362e8;
+  border-radius: 24px;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 188px;
+  width: 182px;
+}
+
+.nwok-home .overlap-group1 {
+  border-radius: 66px;
+  height: 132px;
+  left: 25px;
+  position: absolute;
+  top: 24px;
+  width: 132px;
+}
+
+.nwok-home .group-85 {
+  align-items: flex-start;
+  border: 20px solid #ffffff33;
+  border-radius: 66px;
+  display: flex;
+  height: 132px;
+  left: 0;
+  min-width: 132px;
+  position: absolute;
+  top: 0;
+}
+
+.nwok-home .ellipse-container {
+  height: 132px;
+  margin-left: -1px;
+  margin-top: -1.0px;
+  position: relative;
+  width: 133px;
+}
+
+.nwok-home .ellipse-3 {
+  height: 1px;
+  left: 67px;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.nwok-home .ellipse-4 {
+  height: 132px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.nwok-home .ellipse-5 {
+  height: 132px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 114px;
+}
+
+.nwok-home .ellipse-6 {
+  height: 127px;
+  left: 57px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.nwok-home .ellipse-7 {
+  background-color: var(--white);
+  border-radius: 1.4px;
+  height: 3px;
+  left: 9px;
+  position: absolute;
+  top: 65px;
+  width: 3px;
+}
+
+.nwok-home .ellipse-8 {
+  background-color: var(--white);
+  border-radius: 1.4px;
+  height: 3px;
+  left: 26px;
+  position: absolute;
+  top: 105px;
+  width: 3px;
+}
+
+.nwok-home .ellipse-9 {
+  background-color: var(--white);
+  border-radius: 1.4px;
+  height: 3px;
+  left: 88px;
+  position: absolute;
+  top: 115px;
+  width: 3px;
+}
+
+.nwok-home .ellipse-10 {
+  background-color: var(--white);
+  border-radius: 1.4px;
+  height: 3px;
+  left: 65px;
+  position: absolute;
+  top: 9px;
+  width: 3px;
+}
+
+.nwok-home .text-2 {
+  color: var(--white);
+  font-family: var(--font-family-roboto_mono);
+  font-size: 21px;
+  font-weight: 500;
+  height: 28px;
+  left: 72px;
+  letter-spacing: -0.42px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+}
+
+.nwok-home .group-container-1 {
+  height: 763px;
+  margin-left: 77.0px;
+  margin-top: 140px;
+  position: relative;
+  width: 1079px;
+}
+
+.nwok-home .group-42479 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 519px;
+  min-height: 159px;
+  position: absolute;
+  top: 102px;
+  width: 560px;
+}
+
+.nwok-home .less-noise {
+  letter-spacing: -1.56px;
+  line-height: 57px;
+  min-height: 57px;
+  white-space: nowrap;
+}
+
+.nwok-home .a-daily-dataset-to-k {
+  letter-spacing: -0.40px;
+  line-height: 24px;
+  margin-top: 30px;
+  min-height: 72px;
+  width: 459px;
+}
+
+.nwok-home .overlap-group5 {
+  height: 763px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1014px;
+}
+
+.nwok-home .frame-16x16 {
+  height: 388px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 374px;
+}
+
+.nwok-home .group-42478 {
+  align-items: center;
+  display: flex;
+  height: 386px;
+  left: 37px;
+  min-width: 977px;
+  position: absolute;
+  top: 377px;
+}
+
+.nwok-home .group-42477 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 67.0px;
+  min-height: 159px;
+  width: 560px;
+}
+
+.nwok-home .in-depth-metrics {
+  letter-spacing: -1.56px;
+  line-height: 57px;
+  min-height: 57px;
+  white-space: nowrap;
+}
+
+.nwok-home .accurate-real-time {
+  letter-spacing: -0.40px;
+  line-height: 24px;
+  margin-top: 30px;
+  min-height: 72px;
+  width: 424px;
+}
+
+.nwok-home .frame-16x16-1 {
+  height: 386px;
+  margin-left: 41px;
+  width: 376px;
+}
+
+.nwok-home .flex-row {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 87.0px;
+  margin-top: 34px;
+  min-width: 1061px;
+}
+
+.nwok-home .frame-16x16-2 {
+  height: 388px;
+  width: 374px;
+}
+
+.nwok-home .group-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 229px;
+  margin-bottom: 11px;
+  margin-left: 131px;
+  width: 556px;
+}
+
+.nwok-home .subscription-index {
+  letter-spacing: -1.56px;
+  line-height: 57px;
+  min-height: 57px;
+  white-space: nowrap;
+}
+
+.nwok-home .a-daily-dataset-to-k-1 {
+  letter-spacing: -0.40px;
+  line-height: 24px;
+  margin-top: 30px;
+  min-height: 48px;
+  width: 459px;
+}
+
+.nwok-home .splitting-the-rewards {
+  letter-spacing: -1.56px;
+  line-height: 57px;
+  margin-left: 41.0px;
+  margin-top: 145px;
+  min-height: 80px;
+  width: 539px;
+}
+
+.nwok-home .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 16.0px;
+  margin-top: 60px;
+  min-width: 844px;
+}
+
+.nwok-home .overlap-group6 {
+  height: 288px;
+  position: relative;
+  width: 404px;
+}
+
+.nwok-home .overlap-group3-1 {
+  align-items: flex-start;
+  background-color: var(--black-pearl);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 288px;
+  padding: 49px 31px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.nwok-home .refer-people {
+  letter-spacing: -0.48px;
+  line-height: 32px;
+  margin-top: 62px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.nwok-home .x-you {
+  letter-spacing: -0.16px;
+  margin-top: 12px;
+  min-height: 84px;
+  width: 336px;
+}
+
+.nwok-home .people-team-add-unde {
+  height: 46px;
+  left: 32px;
+  position: absolute;
+  top: 38px;
+  width: 46px;
+}
+
+.nwok-home .overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--black-pearl);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 36px;
+  min-height: 288px;
+  padding: 28px 31px;
+  width: 400px;
+}
+
+.nwok-home .group-42422 {
+  height: 48px;
+  margin-top: 3px;
+  width: 48px;
+}
+
+.nwok-home .insights {
+  letter-spacing: -0.48px;
+  line-height: 32px;
+  margin-top: 32px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.nwok-home .hiring-companies-get {
+  letter-spacing: -0.16px;
+  margin-top: 12px;
+  min-height: 105px;
+  width: 336px;
+}
+
+.nwok-home .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 288px;
+  margin-left: 16.0px;
+  margin-top: 32px;
+  min-width: 844px;
+}
+
+.nwok-home .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--black-pearl);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  min-height: 288px;
+  padding: 36px 31px;
+  width: 400px;
+}
+
+.nwok-home .group-42423 {
+  height: 48px;
+  width: 48px;
+}
+
+.nwok-home .profiles {
+  letter-spacing: -0.48px;
+  line-height: 32px;
+  margin-top: 27px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.nwok-home .candidates-get-a-sig {
+  letter-spacing: -0.16px;
+  margin-top: 12px;
+  min-height: 42px;
+  width: 336px;
+}
+
+.nwok-home .overlap-group1-3 {
+  align-items: flex-start;
+  background-color: var(--black-pearl);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  min-height: 288px;
+  padding: 40px 31px;
+  width: 400px;
+}
+
+.nwok-home .frame-1 {
+  height: 47px;
+  width: 47px;
+}
+
+.nwok-home .stake-on-people {
+  letter-spacing: -0.48px;
+  line-height: 32px;
+  margin-top: 24px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.nwok-home .group-42432 {
+  align-items: center;
+  background-image: url(../img/rectangle-532@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-right: 56.0px;
+  margin-top: 112px;
+  min-height: 328px;
+  padding: 71px 109px;
+  width: 840px;
+}
+
+.nwok-home .ready-to-start {
+  -webkit-text-stroke: 1px var(--black);
+  color: var(--white);
+  font-family: var(--font-family-roboto_mono);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0.40px;
+  line-height: 32px;
+  margin-right: 2.0px;
+  min-height: 32px;
+  min-width: 186px;
+  opacity: 0.5;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.nwok-home .get-early-access {
+  -webkit-text-stroke: 1px var(--black);
+  align-self: flex-start;
+  letter-spacing: -1.08px;
+  line-height: 40px;
+  margin-top: 16px;
+  min-height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  width: 620px;
+}
+
+.nwok-home .frame-4-1 {
+  align-items: center;
+  background-color: #9f9fd575;
+  border: 1px solid var(--black);
+  border-radius: 8px;
+  display: flex;
+  height: 64px;
+  margin-top: 33px;
+  overflow: hidden;
+  padding: 0 24px;
+  width: 178px;
+}
+
+.nwok-home .get-started {
+  color: var(--white);
+  font-family: var(--font-family-sora);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 96px;
+  white-space: nowrap;
+}
+
+.nwok-home .group-42405-1 {
+  height: 24px;
+  margin-left: 10px;
+  width: 24px;
+}
+
+.nwok-home .group-42459 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 214px;
+  min-height: 1755px;
+  width: 1060px;
+}
+
+.nwok-home .group-42438 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5.0px;
+  min-height: 104px;
+  width: 979px;
+}
+
+.nwok-home .nwok-1 {
+  color: var(--wild-blue-yonder);
+  font-family: var(--font-family-sora);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0.40px;
+  line-height: 32px;
+  margin-right: 5.0px;
+  min-height: 32px;
+  min-width: 70px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.nwok-home .what-are-we-bringing {
+  color: var(--white);
+  font-family: var(--font-family-sora);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: -1.44px;
+  line-height: 64px;
+  margin-right: 4.0px;
+  margin-top: 8px;
+  min-height: 64px;
+  min-width: 975px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.nwok-home .group-42458 {
+  align-items: center;
+  display: flex;
+  margin-top: 96px;
+  min-width: 1060px;
+}
+
+.nwok-home .overlap-group-3 {
+  height: 300px;
+  position: relative;
+  width: 550px;
+}
+
+.nwok-home .rectangle-533 {
+  background-color: var(--midnight);
+  border-radius: 24px;
+  height: 300px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.nwok-home .group-42441 {
+  align-items: center;
+  background-color: var(--bunting);
+  border-radius: 12px;
+  display: flex;
+  height: 96px;
+  left: 150px;
+  min-width: 400px;
+  padding: 0 16px;
+  position: absolute;
+  top: 162px;
+}
+
+.nwok-home .group-808-1 {
+  background-color: #fbaf52;
+  background-image: url(../img/mask-group@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 32px;
+  height: 64px;
+  width: 64px;
+}
+
+.nwok-home .group-42406-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 32px;
+  width: 134px;
+}
+
+.nwok-home .rectangle-522-3 {
+  background-color: var(--blue-bayoux);
+  border-radius: 50px;
+  height: 12px;
+  opacity: 0.2;
+  width: 134px;
+}
+
+.nwok-home .rectangle-523-3 {
+  background-color: var(--blue-bayoux);
+  border-radius: 50px;
+  height: 12px;
+  margin-top: 8px;
+  opacity: 0.2;
+  width: 99px;
+}
+
+.nwok-home .frame-4-2 {
+  align-items: center;
+  background-color: var(--blue-bayoux);
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  margin-left: 46px;
+  opacity: 0.48;
+  overflow: hidden;
+  padding: 0 26px;
+  width: 100px;
+}
+
+.nwok-home .rectangle-522-1 {
+  background-color: var(--wild-blue-yonder);
+  border-radius: 50px;
+  height: 12px;
+  width: 48px;
+}
+
+.nwok-home .group-42443 {
+  align-items: center;
+  background-color: var(--indigo);
+  border-radius: 32px;
+  display: flex;
+  height: 64px;
+  left: 476px;
+  min-width: 64px;
+  padding: 0 16px;
+  position: absolute;
+  top: 56px;
+}
+
+.nwok-home .group-42403-1 {
+  height: 32px;
+  width: 32px;
+}
+
+.nwok-home .group-42440 {
+  align-items: center;
+  background-color: var(--bunting);
+  border-radius: 12px;
+  box-shadow: 0px 35px 45px #070e270d;
+  display: flex;
+  height: 96px;
+  left: 0;
+  min-width: 400px;
+  padding: 0 16px;
+  position: absolute;
+  top: 42px;
+}
+
+.nwok-home .group-684-1 {
+  background-color: #2db27c;
+  background-image: url(../img/mask-group-1@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 32px;
+  height: 64px;
+  width: 64px;
+}
+
+.nwok-home .group-42406-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 32px;
+  width: 140px;
+}
+
+.nwok-home .rectangle-522-4 {
+  background-color: var(--blue-bayoux);
+  border-radius: 50px;
+  height: 12px;
+  opacity: 0.2;
+  width: 140px;
+}
+
+.nwok-home .rectangle-523-4 {
+  background-color: var(--blue-bayoux);
+  border-radius: 50px;
+  height: 12px;
+  margin-top: 8px;
+  opacity: 0.2;
+  width: 104px;
+}
+
+.nwok-home .frame-4-3 {
+  align-items: center;
+  background-color: var(--indigo);
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  margin-left: 40px;
+  overflow: hidden;
+  padding: 0 26px;
+  width: 100px;
+}
+
+.nwok-home .rectangle-522-5 {
+  background-color: #7a7ad5;
+  border-radius: 50px;
+  height: 12px;
+  width: 48px;
+}
+
+.nwok-home .pointinghand-4-13-1 {
+  height: 40px;
+  left: 226px;
+  position: absolute;
+  top: 120px;
+  width: 40px;
+}
+
+.nwok-home .group-42439 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 110px;
+  margin-top: 34.0px;
+  min-height: 190px;
+  width: 404px;
+}
+
+.nwok-home .for-the-company {
+  letter-spacing: -1.08px;
+  line-height: 40px;
+  min-height: 40px;
+  min-width: 293px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.nwok-home .the-company-that-pub {
+  letter-spacing: -0.40px;
+  margin-top: 20px;
+  min-height: 130px;
+  width: 400px;
+}
+
+.nwok-home .group-42457 {
+  align-items: flex-start;
+  display: flex;
+  height: 322px;
+  margin-top: 96px;
+  min-width: 1060px;
+}
+
+.nwok-home .group-42445 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 216px;
+  width: 404px;
+}
+
+.nwok-home .for-a-candidate {
+  letter-spacing: -1.08px;
+  line-height: 40px;
+  min-height: 40px;
+  min-width: 269px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.nwok-home .candidates-can-apply {
+  letter-spacing: -0.40px;
+  margin-top: 20px;
+  min-height: 156px;
+  width: 400px;
+}
+
+.nwok-home .overlap-group1-1 {
+  height: 300px;
+  margin-left: 106px;
+  position: relative;
+  width: 550px;
+}
+
+.nwok-home .group-42453 {
+  align-items: center;
+  background-color: var(--bunting);
+  border-radius: 12px;
+  display: flex;
+  height: 96px;
+  left: 0;
+  min-width: 462px;
+  padding: 0 16px;
+  position: absolute;
+  top: 164px;
+}
+
+.nwok-home .group-683-1 {
+  background-color: #3e8af7;
+  background-image: url(../img/mask-group-2@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 32px;
+  height: 64px;
+  width: 64px;
+}
+
+.nwok-home .group-42406 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 32px;
+  width: 204px;
+}
+
+.nwok-home .rectangle-522-2 {
+  background-color: var(--blue-bayoux);
+  border-radius: 50px;
+  height: 12px;
+  opacity: 0.2;
+  width: 204px;
+}
+
+.nwok-home .rectangle-523-1 {
+  background-color: var(--blue-bayoux);
+  border-radius: 50px;
+  height: 12px;
+  margin-top: 8px;
+  opacity: 0.2;
+  width: 152px;
+}
+
+.nwok-home .frame-4 {
+  align-items: center;
+  background-color: var(--blue-bayoux);
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  margin-left: 38px;
+  opacity: 0.48;
+  overflow: hidden;
+  padding: 0 26px;
+  width: 100px;
+}
+
+.nwok-home .overlap-group {
+  align-items: center;
+  background-color: var(--blue-bayoux);
+  border-radius: 12px;
+  display: flex;
+  height: 64px;
+  left: 70px;
+  min-width: 480px;
+  padding: 0 20.8px;
+  position: absolute;
+  top: 68px;
+}
+
+.nwok-home .search-loupe-2 {
+  height: 24px;
+  width: 25px;
+}
+
+.nwok-home .job-title-keywords {
+  letter-spacing: -0.16px;
+  line-height: 24px;
+  margin-left: 17px;
+  min-height: 24px;
+  min-width: 180px;
+  white-space: nowrap;
+}
+
+.nwok-home .pointinghand-4-14 {
+  height: 40px;
+  left: 323px;
+  position: absolute;
+  top: 115px;
+  width: 40px;
+}
+
+.nwok-home .group-42455 {
+  align-items: center;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 98px;
+  min-width: 1056px;
+}
+
+.nwok-home .overlap-group3-2 {
+  height: 348px;
+  position: relative;
+  width: 510px;
+}
+
+.nwok-home .rectangle-533-1 {
+  background-color: var(--midnight);
+  border-radius: 24px;
+  height: 300px;
+  left: 110px;
+  position: absolute;
+  top: 48px;
+  width: 400px;
+}
+
+.nwok-home .group-42440-1 {
+  align-items: center;
+  background-color: var(--bunting);
+  border-radius: 12px;
+  display: flex;
+  height: 96px;
+  left: 0;
+  min-width: 462px;
+  padding: 0 16px;
+  position: absolute;
+  top: 212px;
+}
+
+.nwok-home .group-684-2 {
+  background-color: #2db27c;
+  background-image: url(../img/mask-group-4@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 32px;
+  height: 64px;
+  width: 64px;
+}
+
+.nwok-home .overlap-group2-2 {
+  background-color: var(--indigo);
+  border-radius: 24px;
+  box-shadow: 0px 35px 45px #070e270d;
+  height: 180px;
+  left: 219px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.nwok-home .text-1 {
+  height: 32px;
+  left: 65px;
+  letter-spacing: -0.48px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 74px;
+  white-space: nowrap;
+}
+
+.nwok-home .pointinghand-4-13-2 {
+  height: 40px;
+  left: 401px;
+  position: absolute;
+  top: 264px;
+  width: 40px;
+}
+
+.nwok-home .group-42447 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 146px;
+  margin-top: 8.0px;
+  min-height: 164px;
+  width: 404px;
+}
+
+.nwok-home .we-crunch-data {
+  letter-spacing: -1.08px;
+  line-height: 40px;
+  min-height: 40px;
+  min-width: 273px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.nwok-home .nwok-score-measures {
+  letter-spacing: -0.40px;
+  margin-top: 20px;
+  min-height: 104px;
+  width: 400px;
+}
+
+.nwok-home .group-42459-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 311px;
+  margin-top: 80px;
+  min-width: 1060px;
+}
+
+.nwok-home .group-42445-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 191px;
+  width: 404px;
+}
+
+.nwok-home .staking {
+  letter-spacing: -1.08px;
+  line-height: 40px;
+  min-height: 40px;
+  min-width: 137px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.nwok-home .staking-distribution {
+  letter-spacing: -0.40px;
+  margin-top: 21px;
+  min-height: 130px;
+  width: 400px;
+}
+
+.nwok-home .group-683-2 {
+  background-color: #3e8af7;
+  background-image: url(../img/mask-group-3@2x.svg);
+  background-size: 100% 100%;
+  border-radius: 32px;
+  height: 64px;
+  width: 64px;
+}
+
+.nwok-home .overlap-group7 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-29@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  justify-content: flex-end;
+  margin-right: 2.0px;
+  margin-top: 242px;
+  min-width: 1439px;
+  padding: 45px 95.5px;
+}
+
+.nwok-home .terms-conditions {
+  color: var(--periwinkle);
+  font-family: var(--font-family-sora);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.nwok-home .foster_logo {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  margin-left: 384px;
+  margin-top: 0.83px;
+  min-width: 81px;
+  padding: 0 0.3px;
+}
+
+.nwok-home .nwok-2 {
+  color: var(--white);
+  font-family: var(--font-family-aeonik-bold);
+  font-size: 26.4px;
+  font-weight: 700;
+  height: 32px;
+  letter-spacing: 0;
+  margin-top: -7.55px;
+  min-width: 67px;
+  text-align: center;
+}
+
+.nwok-home .vector-2 {
+  height: 18px;
+  margin-left: 1px;
+  margin-top: -0.27px;
+  width: 12px;
+}
+
+.nwok-home .privacy-policy {
+  color: var(--periwinkle);
+  font-family: var(--font-family-sora);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 413px;
+  min-height: 24px;
+  min-width: 162px;
+  text-align: right;
+  white-space: nowrap;
+}
